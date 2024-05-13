@@ -9,19 +9,19 @@ Data science job projects involve analyzing and interpreting job market data to 
 **Description of Dataset**<br>
 This dataset comprises a collection of job listings in the field of data science, sourced from a web scraping of job boards and employment websites. The dataset includes the following fields:
 
-Salary Estimate: Estimated salary range for each job listing, provided in textual format.
-Job Description: Detailed description of the job responsibilities, qualifications, and requirements.
-Rating: Rating or reputation of the company based on employee reviews or other metrics.
-Company Name: Name of the hiring company or organization.
-Location: Geographical location of the job (city, state, country).
-Headquarters: Location of the company's headquarters.
-Size: Size category of the company (e.g., small, medium, large) based on employee count.
-Founded: Year when the company was founded.
-Type of Ownership: Ownership structure of the company (e.g., public, private, nonprofit).
-Industry: Industry or sector to which the company belongs.
-Sector: Broad sector classification of the company's industry (e.g., Technology, Healthcare, Finance).
-Revenue: Revenue range of the company.
-Competitors: Names of competitor companies within the same industry.
+Salary Estimate: Estimated salary range for each job listing, provided in textual format.<br>
+Job Description: Detailed description of the job responsibilities, qualifications, and requirements.<br>
+Rating: Rating or reputation of the company based on employee reviews or other metrics.<br>
+Company Name: Name of the hiring company or organization.<br>
+Location: Geographical location of the job (city, state, country).<br>
+Headquarters: Location of the company's headquarters.<br>
+Size: Size category of the company (e.g., small, medium, large) based on employee count.<br>
+Founded: Year when the company was founded.<br>
+Type of Ownership: Ownership structure of the company (e.g., public, private, nonprofit).<br>
+Industry: Industry or sector to which the company belongs.<br>
+Sector: Broad sector classification of the company's industry (e.g., Technology, Healthcare, Finance).<br>
+Revenue: Revenue range of the company.<br>
+Competitors: Names of competitor companies within the same industry.<br>
 
 [Dataset](https://www.kaggle.com/datasets/rkb0023/glassdoor-data-science-jobs)
 

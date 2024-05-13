@@ -4,7 +4,7 @@ Data science job projects involve leveraging advanced analytics to extract insig
 **Objective:**<br>
 Data science job projects involve analyzing and interpreting job market data to provide insights into salary trends, job descriptions, and employer ratings. This includes examining various factors such as company details (name, location, size, industry), job requirements, and compensation estimates to guide professionals in making informed career decisions. The analysis of this data helps job seekers understand market demand, identify desirable employers, and assess industry standards for roles in data science and related fields. This information is crucial for job seekers, employers, and recruiters to optimize recruitment strategies, negotiate competitive salaries, and align talent with organizational needs.
 
-**Description of Dataset**
+**Description of Dataset**<br>
 This dataset comprises a collection of job listings in the field of data science, sourced from a web scraping of job boards and employment websites. The dataset includes the following fields:
 
 Salary Estimate: Estimated salary range for each job listing, provided in textual format.
@@ -23,7 +23,7 @@ Competitors: Names of competitor companies within the same industry.
 
 [Dataset](https://www.kaggle.com/datasets/rkb0023/glassdoor-data-science-jobs)
 
-**Methodology**
+**Methodology**<br>
 - Data Importing and Understanding
 - Data preparation and cleaning
 - Exploratory analysis and visualization
@@ -32,7 +32,7 @@ Competitors: Names of competitor companies within the same industry.
 
 [Notebook](https://github.com/amandeepkaur2024/Data-Science-Job)
 
-**Conclusion**
+**Conclusion**<br>
 Our exploratory data analysis (EDA) has revealed important findings:
 
 - Companies categorized under 'Contract' ownership type exhibit the highest average rating of 4.5.
